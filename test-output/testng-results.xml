@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35942" started-at="2019-10-08T19:06:38Z" finished-at="2019-10-08T19:07:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35942" started-at="2019-10-08T19:06:38Z" finished-at="2019-10-08T19:07:14Z">
+      <class name="SignupTest.SignupTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SignupTest.SignupTest@2b98378d]" name="setup" is-config="true" duration-ms="20640" started-at="2019-10-08T19:06:38Z" finished-at="2019-10-08T19:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Signup()[pri:0, instance:SignupTest.SignupTest@2b98378d]" name="Signup" duration-ms="15242" started-at="2019-10-08T19:06:59Z" finished-at="2019-10-08T19:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+      </class> <!-- SignupTest.SignupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
